@@ -370,8 +370,7 @@ var SETDEX_SS = {
     "National Dex Monotype Choice Specs (Poison)": {"ability":"Cursed Body","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Shadow Ball","Sludge Wave","Focus Blast","Dazzling Gleam"]},
     "National Dex Monotype Nasty Plot (Poison)": {"ability":"Cursed Body","item":"Ghostium Z","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Shadow Ball","Focus Blast","Sludge Wave"]},
     "1v1 Life Orb": {"ability":"Cursed Body","item":"Life Orb","nature":"Modest","evs":{"hp":16,"df":128,"sa":204,"sp":160},"moves":["Will-O-Wisp","Disable","Hex","Sludge Wave"]},
-    "1v1 Choice Specs": {"ability":"Cursed Body","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Sludge Wave","Shadow Ball","Dazzling Gleam","Trick"]},
-    "Battle Stadium Singles Showdown Usage": {"level":50,"ability":"Cursed Body","item":"Focus Sash","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Icy Wind","Hex","Hypnosis","Sludge Wave"]}
+    "1v1 Choice Specs": {"ability":"Cursed Body","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Sludge Wave","Shadow Ball","Dazzling Gleam","Trick"]}
   },
   "Onix": {
     "LC SturdyJuice": {"level":5,"ability":"Sturdy","item":"Berry Juice","nature":"Jolly","evs":{"hp":76,"at":236,"sp":196},"moves":["Earthquake","Rock Blast","Stealth Rock","Explosion"]},
@@ -1630,7 +1629,6 @@ var SETDEX_SS = {
     "1v1 Maranga Berry + Thunder Wave": {"ability":"Serene Grace","item":"Maranga Berry","nature":"Calm","evs":{"hp":252,"df":52,"sd":104,"sp":100},"moves":["Thunder Wave","Roost","Encore","Air Slash"]},
     "1v1 Choice Scarf": {"ability":"Serene Grace","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Air Slash","Trick","Fire Blast","Roost"]},
     "Doubles OU Showdown Usage": {"ability":"Serene Grace","item":"Babiri Berry","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Dazzling Gleam","Air Slash","Follow Me","Protect"]},
-    "Battle Stadium Singles Showdown Usage": {"level":50,"ability":"Super Luck","item":"Scope Lens","nature":"Timid","evs":{"hp":4,"sa":252,"sp":252},"moves":["Air Slash","Dazzling Gleam","Nasty Plot","Flamethrower"]},
     "VGC 2021 Showdown Usage": {"level":50,"ability":"Super Luck","item":"Scope Lens","nature":"Timid","evs":{"hp":4,"sa":252,"sp":252},"moves":["Dazzling Gleam","Follow Me","Protect","Air Slash"]}
   },
   "Leafeon": {
@@ -1814,8 +1812,7 @@ var SETDEX_SS = {
   },
   "Giratina": {
     "Ubers Defog": {"ability":"Pressure","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Defog","Toxic","Will-O-Wisp","Rest"]},
-    "Anything Goes Defensive": {"ability":"Pressure","item":"Leftovers","nature":"Relaxed","ivs":{"sp":0},"evs":{"hp":248,"df":220,"sd":40},"moves":["Defog","Toxic","Will-O-Wisp","Rest"]},
-    "Battle Stadium Singles Showdown Usage": {"level":50,"ability":"Pressure","item":"Chesto Berry","nature":"Bold","evs":{"hp":252,"df":252,"sa":4},"moves":["Calm Mind","Hex","Will-O-Wisp","Rest"]}
+    "Anything Goes Defensive": {"ability":"Pressure","item":"Leftovers","nature":"Relaxed","ivs":{"sp":0},"evs":{"hp":248,"df":220,"sd":40},"moves":["Defog","Toxic","Will-O-Wisp","Rest"]}
   },
   "Manaphy": {
     "National Dex Stallbreaker": {"ability":"Hydration","item":"Waterium Z","nature":"Modest","evs":{"hp":248,"sa":240,"sp":20},"moves":["Tail Glow","Surf","Energy Ball","Rest"]},
@@ -1950,8 +1947,7 @@ var SETDEX_SS = {
     "UU Suicide Lead": {"ability":"Speed Boost","item":"Focus Sash","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Spikes","Poison Jab","Endeavor","Earthquake"]},
     "Monotype Swords Dance (Bug)": {"ability":"Speed Boost","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Megahorn","Earthquake","Rock Slide"]},
     "National Dex Showdown Usage": {"ability":"Speed Boost","item":"Focus Sash","nature":"Adamant","evs":{"at":212,"df":180,"sp":80},"moves":["Earthquake","Endeavor","Poison Jab","Superpower"]},
-    "National Dex Monotype Showdown Usage": {"ability":"Speed Boost","item":"Focus Sash","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Earthquake","Poison Jab","Swords Dance","Protect"]},
-    "Battle Stadium Singles Showdown Usage": {"level":50,"ability":"Speed Boost","item":"Focus Sash","nature":"Timid","evs":{"hp":252,"df":92,"sp":164},"moves":["Baton Pass","Iron Defense","Toxic","Toxic Spikes"]}
+    "National Dex Monotype Showdown Usage": {"ability":"Speed Boost","item":"Focus Sash","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Earthquake","Poison Jab","Swords Dance","Protect"]}
   },
   "Cottonee": {
     "LC Memento": {"level":5,"ability":"Prankster","item":"Eviolite","nature":"Timid","evs":{"hp":36,"df":36,"sa":140,"sd":36,"sp":228},"moves":["Memento","Knock Off","Dazzling Gleam","Encore"]}
@@ -2475,8 +2471,7 @@ var SETDEX_SS = {
     "Ubers Dragon Dance": {"ability":"Teravolt","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Icicle Spear","Roost","Fusion Bolt"]},
     "Doubles OU Dragon Dance": {"ability":"Teravolt","item":"Chople Berry","nature":"Adamant","evs":{"hp":4,"at":252,"sp":252},"moves":["Icicle Spear","Fusion Bolt","Dragon Dance","Protect"]},
     "Doubles OU Assault Vest": {"ability":"Teravolt","item":"Assault Vest","nature":"Timid","evs":{"hp":228,"sd":128,"sp":152},"moves":["Ice Beam","Fusion Bolt","Earth Power","Icy Wind"]},
-    "Anything Goes Dragon Dance": {"ability":"Teravolt","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Icicle Spear","Fusion Bolt","Shadow Claw"]},
-    "Battle Stadium Singles Showdown Usage": {"level":50,"ability":"Teravolt","item":"Life Orb","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Icicle Spear","Dragon Dance","Fusion Bolt","Substitute"]}
+    "Anything Goes Dragon Dance": {"ability":"Teravolt","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Icicle Spear","Fusion Bolt","Shadow Claw"]}
   },
   "Kyurem-White": {
     "Ubers Special Attacker": {"ability":"Turboblaze","item":"Choice Specs","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Draco Meteor","Ice Beam","Freeze-Dry","Fusion Flare"]},
@@ -2580,7 +2575,6 @@ var SETDEX_SS = {
     "1v1 Physical Life Orb": {"ability":"Stance Change","item":"Life Orb","nature":"Adamant","evs":{"hp":248,"at":192,"df":12,"sd":12,"sp":44},"moves":["Swords Dance","Iron Head","Shadow Sneak","Sacred Sword"]},
     "1v1 Special Life Orb": {"ability":"Stance Change","item":"Life Orb","nature":"Modest","evs":{"hp":248,"df":12,"sa":192,"sd":12,"sp":44},"moves":["Shadow Ball","Flash Cannon","Shadow Sneak","Metal Sound"]},
     "1v1 Air Balloon": {"ability":"Stance Change","item":"Air Balloon","nature":"Modest","evs":{"hp":248,"df":52,"sa":152,"sd":12,"sp":44},"moves":["Shadow Ball","Shadow Sneak","King's Shield","Flash Cannon"]},
-    "Battle Stadium Singles Showdown Usage": {"level":50,"ability":"Stance Change","item":"Focus Sash","nature":"Mild","evs":{"at":4,"sa":252,"sp":252},"moves":["Shadow Sneak","Shadow Ball","Flash Cannon","Sacred Sword"]},
     "CAP Showdown Usage": {"ability":"Stance Change","item":"Leftovers","nature":"Adamant","evs":{"hp":252,"at":252,"sd":4},"moves":["Shadow Sneak","Close Combat","Shadow Ball","Iron Head"]}
   },
   "Aegislash-Blade": {
@@ -2602,7 +2596,6 @@ var SETDEX_SS = {
     "1v1 Physical Life Orb": {"ability":"Stance Change","item":"Life Orb","nature":"Adamant","evs":{"hp":248,"at":192,"df":12,"sd":12,"sp":44},"moves":["Swords Dance","Iron Head","Shadow Sneak","Sacred Sword"]},
     "1v1 Special Life Orb": {"ability":"Stance Change","item":"Life Orb","nature":"Modest","evs":{"hp":248,"df":12,"sa":192,"sd":12,"sp":44},"moves":["Shadow Ball","Flash Cannon","Shadow Sneak","Metal Sound"]},
     "1v1 Air Balloon": {"ability":"Stance Change","item":"Air Balloon","nature":"Modest","evs":{"hp":248,"df":52,"sa":152,"sd":12,"sp":44},"moves":["Shadow Ball","Shadow Sneak","King's Shield","Flash Cannon"]},
-    "Battle Stadium Singles Showdown Usage": {"level":50,"ability":"Stance Change","item":"Focus Sash","nature":"Mild","evs":{"at":4,"sa":252,"sp":252},"moves":["Shadow Sneak","Shadow Ball","Flash Cannon","Sacred Sword"]},
     "CAP Showdown Usage": {"ability":"Stance Change","item":"Leftovers","nature":"Adamant","evs":{"hp":252,"at":252,"sd":4},"moves":["Shadow Sneak","Close Combat","Shadow Ball","Iron Head"]}
   },
   "Aegislash-Shield": {
@@ -2624,7 +2617,6 @@ var SETDEX_SS = {
     "1v1 Physical Life Orb": {"ability":"Stance Change","item":"Life Orb","nature":"Adamant","evs":{"hp":248,"at":192,"df":12,"sd":12,"sp":44},"moves":["Swords Dance","Iron Head","Shadow Sneak","Sacred Sword"]},
     "1v1 Special Life Orb": {"ability":"Stance Change","item":"Life Orb","nature":"Modest","evs":{"hp":248,"df":12,"sa":192,"sd":12,"sp":44},"moves":["Shadow Ball","Flash Cannon","Shadow Sneak","Metal Sound"]},
     "1v1 Air Balloon": {"ability":"Stance Change","item":"Air Balloon","nature":"Modest","evs":{"hp":248,"df":52,"sa":152,"sd":12,"sp":44},"moves":["Shadow Ball","Shadow Sneak","King's Shield","Flash Cannon"]},
-    "Battle Stadium Singles Showdown Usage": {"level":50,"ability":"Stance Change","item":"Focus Sash","nature":"Mild","evs":{"at":4,"sa":252,"sp":252},"moves":["Shadow Sneak","Shadow Ball","Flash Cannon","Sacred Sword"]},
     "CAP Showdown Usage": {"ability":"Stance Change","item":"Leftovers","nature":"Adamant","evs":{"hp":252,"at":252,"sd":4},"moves":["Shadow Sneak","Close Combat","Shadow Ball","Iron Head"]}
   },
   "Aegislash-Both": {
@@ -2646,7 +2638,6 @@ var SETDEX_SS = {
     "1v1 Physical Life Orb": {"ability":"Stance Change","item":"Life Orb","nature":"Adamant","evs":{"hp":248,"at":192,"df":12,"sd":12,"sp":44},"moves":["Swords Dance","Iron Head","Shadow Sneak","Sacred Sword"]},
     "1v1 Special Life Orb": {"ability":"Stance Change","item":"Life Orb","nature":"Modest","evs":{"hp":248,"df":12,"sa":192,"sd":12,"sp":44},"moves":["Shadow Ball","Flash Cannon","Shadow Sneak","Metal Sound"]},
     "1v1 Air Balloon": {"ability":"Stance Change","item":"Air Balloon","nature":"Modest","evs":{"hp":248,"df":52,"sa":152,"sd":12,"sp":44},"moves":["Shadow Ball","Shadow Sneak","King's Shield","Flash Cannon"]},
-    "Battle Stadium Singles Showdown Usage": {"level":50,"ability":"Stance Change","item":"Focus Sash","nature":"Mild","evs":{"at":4,"sa":252,"sp":252},"moves":["Shadow Sneak","Shadow Ball","Flash Cannon","Sacred Sword"]},
     "CAP Showdown Usage": {"ability":"Stance Change","item":"Leftovers","nature":"Adamant","evs":{"hp":252,"at":252,"sd":4},"moves":["Shadow Sneak","Close Combat","Shadow Ball","Iron Head"]}
   },
   "Spritzee": {
@@ -3480,7 +3471,6 @@ var SETDEX_SS = {
     "1v1 Assault Vest": {"ability":"Grassy Surge","item":"Assault Vest","nature":"Careful","evs":{"hp":184,"at":84,"sd":240},"moves":["Fake Out","High Horsepower","Wood Hammer","Grassy Glide"]},
     "1v1 SubSeed": {"ability":"Grassy Surge","item":"Grassy Seed","nature":"Impish","evs":{"hp":136,"df":140,"sp":232},"moves":["Substitute","Protect","Leech Seed","Drum Beating"]},
     "1v1 Weakness Policy": {"ability":"Grassy Surge","item":"Weakness Policy","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Wood Hammer","Grassy Glide","Bulk Up","Endure"]},
-    "Battle Stadium Singles Showdown Usage": {"level":50,"ability":"Grassy Surge","item":"Choice Band","nature":"Adamant","evs":{"hp":252,"at":252,"df":4},"moves":["Grassy Glide","U-turn","High Horsepower","Wood Hammer"]},
     "VGC 2022 Showdown Usage": {"level":50,"ability":"Grassy Surge","item":"Assault Vest","nature":"Adamant","evs":{"hp":188,"at":252,"df":68},"moves":["Grassy Glide","Fake Out","High Horsepower","Knock Off"]},
     "VGC 2021 Showdown Usage": {"level":50,"ability":"Grassy Surge","item":"Miracle Seed","nature":"Adamant","evs":{"hp":252,"at":252,"sd":4},"moves":["Grassy Glide","Fake Out","U-turn","Protect"]},
     "CAP Showdown Usage": {"ability":"Grassy Surge","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Grassy Glide","U-turn","Wood Hammer","Superpower"]}
@@ -3506,7 +3496,6 @@ var SETDEX_SS = {
     "Monotype Offensive (Fire)": {"ability":"Libero","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Pyro Ball","Sucker Punch","Low Kick","Bulk Up"]},
     "National Dex Monotype Bulk Up (Fire)": {"ability":"Libero","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Bulk Up","Pyro Ball","High Jump Kick","Sucker Punch"]},
     "National Dex Monotype Offensive Pivot (Fire)": {"ability":"Libero","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Pyro Ball","U-turn","High Jump Kick","Sucker Punch"]},
-    "Battle Stadium Singles Showdown Usage": {"level":50,"ability":"Libero","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Pyro Ball","High Jump Kick","Bounce","Sucker Punch"]},
     "Anything Goes Showdown Usage": {"ability":"Libero","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Pyro Ball","Sucker Punch","Court Change","High Jump Kick"]},
     "VGC 2022 Showdown Usage": {"level":50,"ability":"Libero","item":"Life Orb","nature":"Jolly","evs":{"hp":4,"at":248,"sp":252},"moves":["Pyro Ball","High Jump Kick","Bounce","Protect"]},
     "VGC 2021 Showdown Usage": {"level":50,"ability":"Libero","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Pyro Ball","Bounce","Sucker Punch","High Jump Kick"]}
@@ -3817,7 +3806,6 @@ var SETDEX_SS = {
     "1v1 Choice Band": {"ability":"Unseen Fist","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Wicked Blow","Close Combat","Sucker Punch","Fling"]},
     "1v1 Choice Scarf": {"ability":"Unseen Fist","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Wicked Blow","Close Combat","Fire Punch","Ice Punch"]},
     "1v1 Life Orb": {"ability":"Unseen Fist","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Wicked Blow","Close Combat","Sucker Punch","Bulk Up"]},
-    "Battle Stadium Singles Showdown Usage": {"level":50,"ability":"Unseen Fist","item":"Focus Sash","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Wicked Blow","Close Combat","Sucker Punch","Stone Edge"]},
     "VGC 2022 Showdown Usage": {"level":50,"ability":"Unseen Fist","item":"Choice Scarf","evs":{"hp":4,"at":252,"sp":252},"moves":["Wicked Blow","Close Combat","U-turn","Rock Tomb"]}
   },
   "Urshifu-Gmax": {
@@ -4128,12 +4116,11 @@ var SETDEX_SS = {
   "Honchkrow": {
     "National Dex Monotype Showdown Usage": {"ability":"Moxie","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Brave Bird","Sucker Punch","Superpower","Night Slash"]}
   },
-  "Lapras": {
-    "Battle Stadium Singles Showdown Usage": {"level":50,"ability":"Water Absorb","item":"Light Clay","nature":"Modest","evs":{"hp":140,"df":116,"sa":252},"moves":["Sparkling Aria","Sheer Cold","Perish Song","Freeze-Dry"]},
-    "VGC 2021 Showdown Usage": {"level":50,"ability":"Water Absorb","item":"Light Clay","nature":"Modest","evs":{"hp":252,"sa":252,"sd":4},"moves":["Hydro Pump","Protect","Thunder","Freeze-Dry"]}
-  },
   "Dusclops": {
     "VGC 2021 Showdown Usage": {"level":50,"ability":"Frisk","item":"Eviolite","nature":"Relaxed","evs":{"hp":252,"df":252,"sd":4},"moves":["Trick Room","Night Shade","Will-O-Wisp","Helping Hand"]}
+  },
+  "Lapras": {
+    "VGC 2021 Showdown Usage": {"level":50,"ability":"Water Absorb","item":"Light Clay","nature":"Modest","evs":{"hp":252,"sa":252,"sd":4},"moves":["Hydro Pump","Protect","Thunder","Freeze-Dry"]}
   },
   "Inkay": {
     "LC Showdown Usage": {"level":5,"ability":"Contrary","item":"Eviolite","nature":"Relaxed","evs":{"hp":12,"at":244,"df":172,"sd":68},"moves":["Superpower","Knock Off","Psycho Cut","Trick Room"]}

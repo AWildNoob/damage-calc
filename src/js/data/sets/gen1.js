@@ -149,8 +149,7 @@ var SETDEX_RBY = {
   },
   "Abra": {
     "NU Special Attacker": {"moves":["Psychic","Thunder Wave","Seismic Toss","Counter"]},
-    "PU Special Attacker": {"moves":["Psychic","Seismic Toss","Thunder Wave","Substitute"]},
-    "ZU Showdown Usage": {"moves":["Psychic","Thunder Wave","Seismic Toss","Substitute"]}
+    "PU Special Attacker": {"moves":["Psychic","Seismic Toss","Thunder Wave","Substitute"]}
   },
   "Kadabra": {
     "UU Standard": {"moves":["Psychic","Thunder Wave","Seismic Toss","Recover"]}
@@ -221,8 +220,7 @@ var SETDEX_RBY = {
   },
   "Magneton": {
     "UU Bulky Special Attacker": {"moves":["Thunderbolt","Thunder Wave","Double-Edge","Rest"]},
-    "NU Offensive": {"moves":["Thunder Wave","Thunderbolt","Thunder","Rest"]},
-    "ZU Showdown Usage": {"moves":["Thunderbolt","Thunder Wave","Double-Edge","Rest"]}
+    "NU Offensive": {"moves":["Thunder Wave","Thunderbolt","Thunder","Rest"]}
   },
   "Farfetch’d": {
     "PU Double Dance": {"moves":["Slash","Agility","Swords Dance","Body Slam"]}
@@ -416,8 +414,7 @@ var SETDEX_RBY = {
   },
   "Vaporeon": {
     "UU Bulky Special Attacker": {"moves":["Surf","Blizzard","Body Slam","Rest"]},
-    "Tradebacks OU Growth": {"moves":["Growth","Surf","Acid Armor","Rest"]},
-    "OU Showdown Usage": {"moves":["Rest","Acid Armor","Body Slam","Hydro Pump"]}
+    "Tradebacks OU Growth": {"moves":["Growth","Surf","Acid Armor","Rest"]}
   },
   "Jolteon": {
     "OU Offensive": {"moves":["Thunder Wave","Thunderbolt","Double Kick","Rest"]},
@@ -519,7 +516,7 @@ var SETDEX_RBY = {
     "Ubers Explosive Lure": {"moves":["Thunder Wave","Swords Dance","Body Slam","Explosion"]},
     "Ubers Lutrew / PaRaSiTe Mew (Transform)": {"moves":["Transform","Thunder Wave","Soft-Boiled","Reflect"]}
   },
-  "Dratini": {
-    "ZU Showdown Usage": {"moves":["Blizzard","Wrap","Hyper Beam","Agility"]}
+  "Shellder": {
+    "ZU Showdown Usage": {"moves":["Explosion","Surf","Blizzard","Supersonic"]}
   }
 };

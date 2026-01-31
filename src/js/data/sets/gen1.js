@@ -5,6 +5,9 @@ var SETDEX_RBY = {
     "1v1 SubSeed": {"moves":["Razor Leaf","Toxic","Leech Seed","Substitute"]},
     "UU Showdown Usage": {"moves":["Sleep Powder","Razor Leaf","Body Slam","Swords Dance"]}
   },
+  "Charmeleon": {
+    "ZU Mixed Attacker": {"moves":["Fire Blast","Slash","Body Slam","Counter"]}
+  },
   "Charizard": {
     "OU Swords Dance": {"moves":["Swords Dance","Hyper Beam","Earthquake","Slash"]},
     "NU Swords Dance": {"moves":["Swords Dance","Hyper Beam","Earthquake","Fire Blast"]},
@@ -12,7 +15,7 @@ var SETDEX_RBY = {
     "UU Showdown Usage": {"moves":["Earthquake","Fire Blast","Swords Dance","Hyper Beam"]}
   },
   "Blastoise": {
-    "NU Don't Use Blastoise": {"moves":["Surf","Blizzard","Body Slam","Seismic Toss"]}
+    "NU Bulky Attacker": {"moves":["Surf","Body Slam","Seismic Toss","Blizzard"]}
   },
   "Butterfree": {
     "ZU Double Powder": {"moves":["Sleep Powder","Stun Spore","Psychic","Substitute"]}
@@ -351,10 +354,10 @@ var SETDEX_RBY = {
   },
   "Porygon": {
     "OU Wall": {"moves":["Recover","Thunder Wave","Ice Beam","Thunderbolt"]},
+    "NU Support": {"moves":["Thunder Wave","Recover","Double-Edge","Blizzard"]},
     "PU Support": {"moves":["Thunder Wave","Recover","Blizzard","Psychic"]},
     "PU Agility": {"moves":["Agility","Recover","Psychic","Thunder Wave"]},
-    "Tradebacks OU Bulky Support": {"moves":["Recover","Thunder Wave","Ice Beam","Thunderbolt"]},
-    "NU Showdown Usage": {"moves":["Recover","Thunder Wave","Thunderbolt","Hyper Beam"]}
+    "Tradebacks OU Bulky Support": {"moves":["Recover","Thunder Wave","Ice Beam","Thunderbolt"]}
   },
   "Omastar": {
     "OU Tank": {"moves":["Hydro Pump","Ice Beam","Body Slam","Rest"]},
@@ -436,9 +439,6 @@ var SETDEX_RBY = {
   },
   "Weepinbell": {
     "ZU Showdown Usage": {"moves":["Razor Leaf","Sleep Powder","Double-Edge","Stun Spore"]}
-  },
-  "Charmeleon": {
-    "ZU Showdown Usage": {"moves":["Fire Blast","Counter","Slash","Seismic Toss"]}
   },
   "Shellder": {
     "ZU Showdown Usage": {"moves":["Explosion","Surf","Blizzard","Supersonic"]}

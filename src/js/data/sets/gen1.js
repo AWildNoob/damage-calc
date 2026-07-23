@@ -101,10 +101,6 @@ var SETDEX_RBY = {
   "Arcanine": {
     "NU Offensive": {"moves":["Fire Blast","Body Slam","Hyper Beam","Agility"]}
   },
-  "Poliwag": {
-    "ZU Amnesia Sweeper": {"moves":["Hypnosis","Amnesia","Hydro Pump","Psychic"]},
-    "PU Showdown Usage": {"moves":["Amnesia","Hypnosis","Surf","Psychic"]}
-  },
   "Poliwhirl": {
     "NU Amnesia": {"moves":["Hypnosis","Amnesia","Hydro Pump","Blizzard"]}
   },
@@ -429,6 +425,10 @@ var SETDEX_RBY = {
   },
   "Omanyte": {
     "PU Showdown Usage": {"moves":["Blizzard","Body Slam","Rest","Surf"]}
+  },
+  "Poliwag": {
+    "PU Showdown Usage": {"moves":["Amnesia","Hypnosis","Surf","Psychic"]},
+    "ZU Showdown Usage": {"moves":["Amnesia","Hypnosis","Surf","Psychic"]}
   },
   "Wartortle": {
     "ZU Showdown Usage": {"moves":["Blizzard","Hydro Pump","Body Slam","Surf"]}
